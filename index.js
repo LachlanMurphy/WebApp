@@ -9,4 +9,4 @@ app.use(express.static('public'));
 
 console.log("Server running on port " + port);
 
-console.log("New shit on a different level again 5");
+console.log("New shit on a different level again 10");
